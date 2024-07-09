@@ -9,9 +9,11 @@ const Home = () => {
       <section>
         <div>
           <h3>Hoy es el día en que:</h3>
+          <textarea name="" id=""></textarea>
         </div>
         <div>
           <h3>Recuerda que te comprometiste a:</h3>
+          <textarea name="" id=""></textarea>
         </div>
       </section>
     </HomePage>
