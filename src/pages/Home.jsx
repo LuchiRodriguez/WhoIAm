@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <HomePage>
       <NavBar />
-      <h1>¿Qué puedo hacer hoy para ser mejor que ayer?</h1>
+      <h2>¿Qué puedo hacer hoy para ser mejor que ayer?</h2>
       <section>
         <div>
           <h3>Hoy es el día en que:</h3>
