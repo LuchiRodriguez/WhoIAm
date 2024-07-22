@@ -34,6 +34,7 @@ export const HomePage = styled.div`
         resize: none;
         font-size: x-large;
         padding: 10px;
+        outline: none;
       }
     }
   }
@@ -111,6 +112,13 @@ export const CreatePopUp = styled.div`
   right: 0;
   border: 2px solid var(--green);
   border-radius: 10px;
+  input {
+    border: 2px solid var(--green);
+    border-radius: 10px;
+    height: 20px;
+    width: 250px;
+    padding: 10px;
+  }
 `;
 
 export const ButtonPopUp = styled.button`
